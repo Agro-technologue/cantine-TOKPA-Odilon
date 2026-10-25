@@ -20,3 +20,15 @@ Portion 1 : Riz-poulet
 Portion 2 : Riz-poulet
 Total à payer: 4000 FCFA
 Montant manquant: 1000 FCFA
+
+preuve de la commande d'Awa test 3
+
+Client: Awa
+Plat commandé: Alloco-oeuf
+Prix unitaire: 1000 FCFA
+Quantité: 3
+Portion 1 : Alloco-oeuf
+Portion 2 : Alloco-oeuf
+Portion 3 : Alloco-oeuf
+Total à payer: 3000 FCFA
+Monnaie à rendre : 1000 FCFA
