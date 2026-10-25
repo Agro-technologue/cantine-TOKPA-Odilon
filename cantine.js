@@ -1,7 +1,7 @@
 const client = "Awa";
-const codePlat = 1;
-const montantVerse = 5000;
-const quantite = Number("3");
+const codePlat = 2;
+const montantVerse = 3000;
+const quantite = Number("2");
 let plat = " ";
 let prixUnitaire = 0;
 
