@@ -1,0 +1,17 @@
+Nom du client : TOKPA
+Plats disponibles :
+1. Attiéké-poisson (1500 FCFA)
+2. Riz-poulet (2000 FCFA)
+3. Alloco-oeuf (1000 FCFA)
+Entrez le numéro du plat souhaité : 2
+Entrez la quantité souhaitée : 1
+Montant versé (FCFA) : 5000
+
+=== RÉCAPITULATIF DE LA COMMANDE ===
+Client: TOKPA
+Plat commandé: Riz-poulet
+Prix unitaire: 2000 FCFA
+Quantité: 1
+Portion 1 : Riz-poulet
+Total à payer: 2000 FCFA
+Monnaie à rendre : 3000 FCFA

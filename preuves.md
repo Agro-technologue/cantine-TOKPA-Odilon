@@ -1,0 +1,68 @@
+# ***preuve de la commande d'Awa test 1***
+
+# 
+
+Client: Awa
+
+Plat commandé: Attiéké-poisson
+
+Prix unitaire: 1500 FCFA
+
+Quantité: 3
+
+Portion 1 : Attiéké-poisson
+
+Portion 2 : Attiéké-poisson
+
+Portion 3 : Attiéké-poisson
+
+Total à payer: 4500 FCFA
+
+Monnaie à rendre : 500 FCFA
+
+
+
+# ***preuve de la commande d'Awa test 2***
+
+
+
+Client: Awa
+
+Plat commandé: Riz-poulet
+
+Prix unitaire: 2000 FCFA
+
+Quantité: 2
+
+Portion 1 : Riz-poulet
+
+Portion 2 : Riz-poulet
+
+Total à payer: 4000 FCFA
+
+Montant manquant: 1000 FCFA
+
+
+
+# ***preuve de la commande d'Awa test 3***
+
+
+
+Client: Awa
+
+Plat commandé: Alloco-œuf
+
+Prix unitaire: 1000 FCFA
+
+Quantité: 3
+
+Portion 1 : Alloco-œuf
+
+Portion 2 : Alloco-œuf
+
+Portion 3 : Alloco-œuf
+
+Total à payer: 3000 FCFA
+
+Monnaie à rendre : 1000 FCFA
+
